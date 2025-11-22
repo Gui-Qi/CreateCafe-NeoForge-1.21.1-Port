@@ -8,7 +8,7 @@ Summary of major changes:
 - Fixed incompatible method signatures and removed deprecated APIs
 - Resolved any package relocation issues
 
-This is an unofficial community maintenance fork.
+# This is an unofficial community maintenance fork.
 Original mod by 1mphuls3 (https://github.com/1mphuls3/CreateCafe)
 All original copyrights and GPL-2.0 license terms are preserved.
 
