@@ -1,0 +1,16 @@
+{
+  "values": {
+    "createcafe:cassava_root": {
+      "chance": 0.65
+    },
+    "createcafe:cassava_seeds": {
+      "chance": 0.3
+    },
+    "createcafe:coffee_fruit": {
+      "chance": 0.65
+    },
+    "createcafe:coffee_beans": {
+      "chance": 0.3
+    }
+  }
+}

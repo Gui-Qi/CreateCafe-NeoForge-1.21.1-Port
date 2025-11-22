@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "neoforge:conditions": [
+    {
+      "modid": "neapolitan",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "neapolitan:dried_vanilla_pods"
+    },
+    {
+      "amount": 250,
+      "type":"fluid_tag",
+      "fluid_tag": "minecraft:water"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 750,
+      "fluid": "createcafe:melted_sugar"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "id": "createcafe:vanilla_syrup"
+    }
+  ]
+}

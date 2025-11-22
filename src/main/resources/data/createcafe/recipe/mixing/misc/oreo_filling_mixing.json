@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "fluid": "createcafe:melted_sugar",
+      "amount": 250
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "id": "createcafe:filling",
+      "amount": 500
+    }
+  ],
+  "heat_requirement": "heated"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "create:mixing",
+  "neoforge:conditions": [
+    {
+      "value":
+      {
+        "tag": "c:fruits/blood_orange",
+        "type": "neoforge:tag_empty"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "createcafe:blood_orange"
+    },
+    {
+      "type": "fluid_tag",
+      "fluid_tag": "c:milk",
+      "amount": 250
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "createcafe:melted_sugar",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "id": "createcafe:blood_tea",
+      "amount": 500
+    }
+  ],
+  "heat_requirement": "heated"
+}

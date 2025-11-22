@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "neoforge:conditions": [
+    {
+      "modid": "fruittrees",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "fruittrees:redlove"
+    },
+    {
+      "type": "fluid_tag",
+      "fluid_tag": "c:milk",
+      "amount": 250
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "createcafe:melted_sugar",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "id": "createcafe:redlove_tea",
+      "amount": 500
+    }
+  ],
+  "heat_requirement": "heated"
+}

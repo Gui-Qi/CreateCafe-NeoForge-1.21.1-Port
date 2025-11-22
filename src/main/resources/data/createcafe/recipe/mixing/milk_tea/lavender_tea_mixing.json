@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "neoforge:conditions": [
+    {
+      "modid": "biomesoplenty",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "biomesoplenty:lavender"
+    },
+    {
+      "type": "fluid_tag",
+      "fluid_tag": "c:milk",
+      "amount": 250
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "createcafe:melted_sugar",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "id": "createcafe:lavender_tea",
+      "amount": 500
+    }
+  ],
+  "heat_requirement": "heated"
+}

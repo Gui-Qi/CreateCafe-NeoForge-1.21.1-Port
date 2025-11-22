@@ -134,6 +134,7 @@
     "item.createcafe.dragonfruit_tea_bucket": "火龙果奶茶桶",
     "item.createcafe.durian_tea_bucket": "榴莲奶茶桶",
     "item.createcafe.fig_tea_bucket": "无花果奶茶桶",
+    "item.createcafe.filling_bucket": "馅料桶",
     "item.createcafe.gooseberry_tea_bucket": "醋栗奶茶桶",
     "item.createcafe.grape_tea_bucket": "葡萄奶茶桶",
     "item.createcafe.grapefruit_tea_bucket": "西柚奶茶桶",
@@ -230,6 +231,7 @@
     "fluid.createcafe.coffee": "咖啡",
     "fluid.createcafe.iced_coffee": "冰咖啡",
     "item.createcafe.coffee_beans": "咖啡豆",
+    "item.createcafe.coffee_crop_seeds": "咖啡豆",
     "item.createcafe.coffee_fruit": "咖啡果",
     "item.createcafe.roasted_coffee_beans": "焙烧咖啡豆",
     "item.createcafe.coffee_grounds": "咖啡粉",
@@ -266,8 +268,8 @@
     "item.createcafe.strawberry_syrup_bucket": "草莓糖浆桶",
     "item.createcafe.vanilla_syrup_bucket": "香草糖浆桶",
     //创造标签
-    "itemGroup.create_cafe_items": "机械动力：咖啡丨流体",
-    "itemGroup.create_cafe_fluids": "机械动力：咖啡",
+    "itemGroup.create_cafe_items": "机械动力：咖啡",
+    "itemGroup.create_cafe_fluids": "机械动力：咖啡丨流体",
     //工具提示
     "tooltip.createcafe.absorption": "伤害吸收 II（0:10）",
     "tooltip.createcafe.caffeinated.one": "咖啡因 II（0:10）",

@@ -1,0 +1,35 @@
+{
+  "type": "create:mixing",
+  "neoforge:conditions": [
+    {
+      "value":
+      {
+        "tag": "c:fruits/durian",
+        "type": "neoforge:tag_empty"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "c:fruits/durian"
+    },
+    {
+      "type": "fluid_tag",
+      "fluid_tag": "c:milk",
+      "amount": 250
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "createcafe:melted_sugar",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "id": "createcafe:durian_tea",
+      "amount": 500
+    }
+  ],
+  "heat_requirement": "heated"
+}

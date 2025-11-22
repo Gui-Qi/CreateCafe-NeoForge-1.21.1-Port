@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "ingredient": {
+    "item": "createcafe:coffee_crop_seeds"
+  },
+  "result": {
+    "count": 1,
+    "id":"createcafe:roasted_coffee_beans"
+  },
+  "experience": 0.0,
+  "cookingtime": 100
+}

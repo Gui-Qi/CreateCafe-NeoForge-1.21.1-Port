@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "neoforge:conditions": [
+    {
+      "modid": "byg",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "byg:aloe_vera"
+    },
+    {
+      "type": "fluid_tag",
+      "fluid_tag": "c:milk",
+      "amount": 250
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "createcafe:melted_sugar",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "id": "createcafe:aloe_tea",
+      "amount": 500
+    }
+  ],
+  "heat_requirement": "heated"
+}
