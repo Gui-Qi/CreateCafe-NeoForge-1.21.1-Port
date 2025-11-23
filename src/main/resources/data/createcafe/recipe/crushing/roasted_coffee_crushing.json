@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "createcafe:roasted_coffee_crop_seeds"
+      "item": "createcafe:roasted_coffee_beans"
     }
   ],
   "results": [

@@ -7,15 +7,15 @@
   ],
   "results": [
     {
-      "id": "createcafe:coffee_crop_seeds"
+      "id": "createcafe:coffee_beans"
     },
     {
-      "id": "createcafe:coffee_crop_seeds",
+      "id": "createcafe:coffee_beans",
       "count": 2,
       "chance": 0.25
     },
     {
-      "id": "createcafe:coffee_crop_seeds",
+      "id": "createcafe:coffee_beans",
       "count": 1,
       "chance": 0.25
     }
