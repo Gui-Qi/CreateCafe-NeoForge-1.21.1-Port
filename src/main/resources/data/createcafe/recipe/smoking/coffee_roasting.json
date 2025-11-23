@@ -2,7 +2,7 @@
   "type": "minecraft:smoking",
   "category": "food",
   "ingredient": {
-    "item": "createcafe:coffee_crop_seeds"
+    "item": "createcafe:coffee_beans"
   },
   "result": {
     "count": 1,
